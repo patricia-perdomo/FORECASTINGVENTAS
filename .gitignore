@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 .env
+*.env
 .DS_Store
 .ipynb_checkpoints/
 data/raw/
@@ -9,3 +10,4 @@ data/raw/
 #models/
 *.sqlite3
 *.log
+
