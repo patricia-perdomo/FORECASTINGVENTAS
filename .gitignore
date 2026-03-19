@@ -1,0 +1,11 @@
+# Archivos y carpetas a ignorar
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.ipynb_checkpoints/
+data/raw/
+#data/processed/
+#models/
+*.sqlite3
+*.log
